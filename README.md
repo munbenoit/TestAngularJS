@@ -1,2 +1,2 @@
 # TestAngularJS
-test6
+test7
