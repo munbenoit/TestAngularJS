@@ -1,3 +1,3 @@
 # TestAngularJS
-test71
+test72
 
